@@ -1,7 +1,7 @@
 # 🚀 CRUD Operation with Node Mongoose and Express
 
 ## 📖 Overview
-Here i am trying easy way for start CRUD operation in node ,mongoose and express JS 
+This project is a simple CRUD (Create, Read, Update, Delete) API built using **Node.js, Express.js, and MongoDB (Mongoose ORM)**.
 
 ---
 
